@@ -3,3 +3,41 @@
     padding: 0;
     box-sizing: border-box;
 }
+header{
+    background-color: rgb(5, 28, 44);
+    padding: 15px 30px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+nav ul{
+    display: flex;
+    list-style-type: none;
+    gap: 20px;
+}
+a{
+    text-decoration: none;
+}
+.logo{
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+}
+nav ul a{
+    color: white;
+    padding: 8px 12px;
+}
+nav ul a:hover{
+    background-color: white;
+    color: brown;
+}
+.navLinks{
+    color: white;
+}
+.Line{
+    width: 1px;
+    height: 20px;
+    background-color: white;
+}
