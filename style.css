@@ -43,12 +43,13 @@ nav ul a:hover{
     gap: 6px;
     align-items: center;
     color: aliceblue;
+    
 }
 .navLinks a{
     color: aliceblue;
 }
 
-#vertical-Line{
+#vertical-Line\
     display: block;
     width: 2px;
     height: 15px;
@@ -107,7 +108,7 @@ nav ul a:hover{
     max-width: 650px;
     color: #d5d9dc;
 }
-arrow-button {
+.arrow-button {
     width: 80px;
     height: 80px;
     border: none;
